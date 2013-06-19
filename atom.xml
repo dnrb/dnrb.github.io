@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Barend Beekhuizen]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-06-19T12:49:50-04:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Barend Beekhuizen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://yoursite.com/blog/2013/06/16/first-post/"/>
+    <updated>2013-06-16T17:54:00-04:00</updated>
+    <id>http://yoursite.com/blog/2013/06/16/first-post</id>
+    <content type="html"><![CDATA[<p>This framework looks about right. Some room for blogging, some for maintaining an academic homepage. Great.</p>
+]]></content>
+  </entry>
+  
+</feed>
