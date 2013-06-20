@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/06/16/first-post/</loc>
+        <loc>http://dnrb.github.io/blog/2013/06/16/first-post/</loc>
         <lastmod>2013-06-19T12:41:09-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/about/</loc>
-        <lastmod>2013-06-16T20:26:23-04:00</lastmod>
+        <loc>http://dnrb.github.io/about/</loc>
+        <lastmod>2013-06-20T12:41:25-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://dnrb.github.io/blog/archives/</loc>
         <lastmod>2013-06-19T12:41:09-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://dnrb.github.io/</loc>
         <lastmod>2013-06-19T12:41:09-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/publications/</loc>
-        <lastmod>2013-06-19T12:14:38-04:00</lastmod>
+        <loc>http://dnrb.github.io/publications/</loc>
+        <lastmod>2013-06-20T12:56:05-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://dnrb.github.io/robots.txt</loc>
         <lastmod>2013-06-16T17:53:14-04:00</lastmod>
     </url>
 </urlset>
