@@ -4,7 +4,7 @@
   <title><![CDATA[Barend Beekhuizen]]></title>
   <link href="http://dnrb.github.io/atom.xml" rel="self"/>
   <link href="http://dnrb.github.io/"/>
-  <updated>2013-06-20T12:56:35-04:00</updated>
+  <updated>2013-06-23T22:27:40-06:00</updated>
   <id>http://dnrb.github.io/</id>
   <author>
     <name><![CDATA[Barend Beekhuizen]]></name>
@@ -14,9 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[ICLC 12: Looking Back, Forward, and Outward, but mainly Good]]></title>
+    <link href="http://dnrb.github.io/blog/2013/06/23/iclc-12-looking-back/"/>
+    <updated>2013-06-23T21:55:00-06:00</updated>
+    <id>http://dnrb.github.io/blog/2013/06/23/iclc-12-looking-back</id>
+    <content type="html"><![CDATA[<p>One shall know a conference by the pre-conference workshops it keeps, eh? If this is true, it&rsquo;s gonna be a good week here in Edmonton at the <a href="https://sites.google.com/a/ualberta.ca/iclc12/">ICLC</a>. The workshop on the verbalization of experience, in honor of Wallace Chafe, was a pure intellectual feast and my fingers are itching to work on something like this too (computationally modeling <em>which</em> aspects of the flow of experience to encode linguistically, and then <em>how</em> to acquire this language-specific system, oh man&hellip;) but for now I&rsquo;m stuck with infants who can&rsquo;t even put blocks in the appropriate holes.</p>
+
+<p>Which leads to&hellip; my talk next Tuesday. I&rsquo;m abusing this first contentful post to do some self-advertisement, hah, and to link the dear reader to some background material. My slides are up on the &lsquo;talks&rsquo; page, and the coding manual for the video data is somewhere at the &lsquo;publications&rsquo; page. I <em>am</em> planning on getting the source data on here too, but I have to ask several people for permission. In case you&rsquo;d be interested, drop me a line, so that I feel a bit more pressured to get to it.</p>
+
+<p>So the talk in a few lines, for those of you who can&rsquo;t be there, either because you&rsquo;re not in Edmonton or 8.30 is too early for you: The general idea is that infants start learning word meanings by associating some words they hear with aspects of the situations they hear these words in. They are supposed to do so either by forming hypotheses or keeping track of co-occurrence statistics. Now, we also know (Lila Gleitman&rsquo;s and Dedre Gentner&rsquo;s work a.o.) that relational meanings, such as the ones associated with verbs (grab, put) and prepositions (on, out) are more difficult to glean from the situation than terms referring to concrete objects and their properties (square, block). And guess what? Our modeling work replicates these findings: nouns > verbs, basically (for my Dutch data &mdash; Korean, for one, might give very different results!).</p>
+
+<p>That, in itself, adds little to our knowledge, but analyzing the reasons for this does: the situations differ so minimally from each other, that the learner cannot just rely on the co-occurrence statistics, as everything co-occurs with everything. (Interestingly, Yevgen Matusevych at Tilburg University was working on something very similar at exactly the same time &mdash; we&rsquo;ll both be presenting this work at CogSci later on). Hence (and this is not really new either&hellip;): word learning requires additional mechanisms. The challenge is: how to implement these in a computational model. And that&rsquo;s a tricky question I haven&rsquo;t found the answer to, but I do know that modeling allows you to simply add on mechanisms and biases that you can evaluate neatly.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Welcome]]></title>
     <link href="http://dnrb.github.io/blog/2013/06/16/first-post/"/>
-    <updated>2013-06-16T17:54:00-04:00</updated>
+    <updated>2013-06-16T17:54:00-06:00</updated>
     <id>http://dnrb.github.io/blog/2013/06/16/first-post</id>
     <content type="html"><![CDATA[<p>This framework looks about right. Some room for blogging, some for maintaining an academic homepage. Great.</p>
 ]]></content>

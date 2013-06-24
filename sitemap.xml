@@ -2,26 +2,34 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://dnrb.github.io/blog/2013/06/16/first-post/</loc>
-        <lastmod>2013-06-19T12:41:09-04:00</lastmod>
+        <lastmod>2013-06-19T10:41:09-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dnrb.github.io/blog/2013/06/23/iclc-12-looking-back/</loc>
+        <lastmod>2013-06-23T22:27:40-06:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/about/</loc>
-        <lastmod>2013-06-20T12:41:25-04:00</lastmod>
+        <lastmod>2013-06-20T10:41:25-06:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/blog/archives/</loc>
-        <lastmod>2013-06-19T12:41:09-04:00</lastmod>
+        <lastmod>2013-06-23T22:27:40-06:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/</loc>
-        <lastmod>2013-06-19T12:41:09-04:00</lastmod>
+        <lastmod>2013-06-23T22:27:40-06:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/publications/</loc>
-        <lastmod>2013-06-20T12:56:05-04:00</lastmod>
+        <lastmod>2013-06-23T21:53:20-06:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/robots.txt</loc>
-        <lastmod>2013-06-16T17:53:14-04:00</lastmod>
+        <lastmod>2013-06-16T15:53:14-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dnrb.github.io/talks/</loc>
+        <lastmod>2013-06-23T21:50:21-06:00</lastmod>
     </url>
 </urlset>
