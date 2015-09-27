@@ -1,16 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://dnrb.github.io/blog/2015/09/27/why-kids-talk-funny/</loc>
+        <lastmod>2015-09-27T08:30:10+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://dnrb.github.io/about/</loc>
         <lastmod>2014-05-11T21:52:22+02:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/blog/archives/</loc>
-        <lastmod>2013-06-16T23:53:14+02:00</lastmod>
+        <lastmod>2015-09-27T08:30:10+02:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/</loc>
-        <lastmod>2013-06-16T23:53:14+02:00</lastmod>
+        <lastmod>2015-09-27T08:30:10+02:00</lastmod>
     </url>
     <url>
         <loc>http://dnrb.github.io/publications/</loc>

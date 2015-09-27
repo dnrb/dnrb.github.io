@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Barend Beekhuizen]]></title>
-  <link href="http://dnrb.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: modeling | Barend Beekhuizen]]></title>
+  <link href="http://dnrb.github.io/blog/categories/modeling/atom.xml" rel="self"/>
   <link href="http://dnrb.github.io/"/>
   <updated>2015-09-27T08:31:00+02:00</updated>
   <id>http://dnrb.github.io/</id>
