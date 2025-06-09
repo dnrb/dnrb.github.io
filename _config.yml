@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Linguist with an interest in the union of lexical semantics and pragmatics, computational and corpus-based methods, and discourse and interaction"
+  bio              : "Linguist working on lexical semantics and pragmatics, computational and corpus-based methods, typology, and discourse and interaction"
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1275-2974"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "dnrb"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
