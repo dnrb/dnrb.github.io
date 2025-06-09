@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Barend Beekhuizen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Barend Beekhuizen"
+description              : &description "academic website"
+url                      : https://dnrb.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : "Linguist with an interest in the union of lexical semantics and pragmatics, computational and corpus-based methods, and discourse and interaction"
+  location         : "Toronto, Canada"
+  employer         : "University of Toronto"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "barend.beekhuizen@utoronto.ca" 
 
   # Academic websites
   academia         : # URL
