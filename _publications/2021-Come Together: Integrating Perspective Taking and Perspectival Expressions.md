@@ -1,7 +1,0 @@
----
-author: Watson, Julia, Anna Kapron-King, Jai Aggarwal, Beekhuizen, Barend, Daphna Heller and Stevenson, Suzanne
-year: 2021
-title: Come Together: Integrating Perspective Taking and Perspectival Expressions
-category: proceedings
-booktitle: {Proceedings of the 43rd Annual Conference of the Cognitive Science Society}
----

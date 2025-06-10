@@ -10,6 +10,7 @@ def sub_authorchains(a):
 	else:
 		return a
 
+ctr = {}
 fn = sys.argv[1]
 bibs = bibtexparser.loads(open(fn).read())
 for e in bibs.entries:
@@ -17,7 +18,7 @@ for e in bibs.entries:
 	#print(e)
 	strbuf += '---\n'
 	if 'author' in e: strbuf += 'author: %s\n' % sub_authorchains(e['author'])
-	if 'year' in e: strbuf += 'year: %s\n' % e['year']
+	if 'year' in e: strbuf += 'date: %s\n' % e['year']
 	if 'title' in e: strbuf += 'title: %s\n' % e['title']
 	if e['ENTRYTYPE'] == 'incollection':
 		strbuf += 'category: proceedings\n'
@@ -30,7 +31,8 @@ for e in bibs.entries:
 	if 'pages' in e: strbuf += 'pages: %s\n' % e['pages']		
 	if 'url' in e: strbuf += 'permalink: %s\n' % e['url']
 	if 'abstract' in e: strbuf += 'abstract: %s\n' % e['abstract']
+	ctr[e['year']] = ctr.get(e['year'], 0) + 1
 	strbuf += '---'
-	with open('../_publications/%s-%s.md' % (e['year'], e['title']), 'w') as fout:
+	with open('../_publications/%s-%s.md' % (e['year'], ctr[e['year']]), 'w') as fout:
 		fout.write(strbuf)
 	#print(strbuf)

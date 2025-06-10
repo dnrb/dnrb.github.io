@@ -1,7 +1,0 @@
----
-author: Beekhuizen, Barend, Bod, Rens, Fazly, Afsaneh, Stevenson, Suzane and Verhagen, Arie
-year: 2014
-title: {A usage-based model of early grammatical development}
-category: proceedings
-booktitle: {Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics}
----

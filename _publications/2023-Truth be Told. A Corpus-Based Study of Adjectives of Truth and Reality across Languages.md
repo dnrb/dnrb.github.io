@@ -1,7 +1,0 @@
----
-author: Barend Beekhuizen, Maya Blumenthal, Lee Jiang, Anna Pyrtchenkov and Jana Savevska
-year: 2023
-title: Truth be Told. A Corpus-Based Study of Adjectives of Truth and Reality across Languages
-category: journal
-journal: Corpus Linguistics and Linguistic Theory
----

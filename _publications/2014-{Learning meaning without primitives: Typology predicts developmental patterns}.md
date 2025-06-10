@@ -1,7 +1,0 @@
----
-author: Beekhuizen, Barend, Fazly, Afsaneh and Stevenson, Suzanne
-year: 2014
-title: {Learning meaning without primitives: Typology predicts developmental patterns}
-category: proceedings
-booktitle: {Proceedings of the 36th Annual Meeting of the Cognitive Science Society}
----
