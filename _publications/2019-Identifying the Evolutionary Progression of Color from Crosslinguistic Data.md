@@ -1,0 +1,7 @@
+---
+author: Watson, Julia, Beekhuizen, Barend and Stevenson, Suzanne
+year: 2019
+title: Identifying the Evolutionary Progression of Color from Crosslinguistic Data
+category: proceedings
+booktitle: {Proceedings of the 41st Annual Conference of the Cognitive Science Society}
+---

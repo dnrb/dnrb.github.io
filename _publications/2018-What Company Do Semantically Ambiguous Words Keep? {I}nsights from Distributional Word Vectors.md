@@ -1,0 +1,7 @@
+---
+author: Beekhuizen, Barend, Sa\v{s}a Mili\'c, Blair Armstrong and Suzanne Stevenson
+year: 2018
+title: What Company Do Semantically Ambiguous Words Keep? {I}nsights from Distributional Word Vectors
+category: proceedings
+booktitle: {Proceedings of the 40th Annual Meeting of the Cognitive Science Society}
+---

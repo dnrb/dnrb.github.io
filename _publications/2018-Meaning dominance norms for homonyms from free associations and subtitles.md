@@ -1,0 +1,8 @@
+---
+author: Rice, Caitlin, Barend Beekhuizen, Suzanne Stevenson and Blair Armstrong
+year: 2018
+title: Meaning dominance norms for homonyms from free associations and subtitles
+category: journal
+journal: Behavior Research Methods
+pages: 1399--1425
+---
