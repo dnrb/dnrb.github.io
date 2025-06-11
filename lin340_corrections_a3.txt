@@ -1,0 +1,1 @@
+[error 14 November] Notebook IV asks you to load data from "/home/barend/data/yelp_dataset/yelp_academic_dataset_review_3cities.json". This is the wrong path. Please replace it by the path used for Assignment 2 as well, viz. "/var/jupyterhubdata/courses/LIN340H5/data/yelp_academic_dataset_review_3cities.json"

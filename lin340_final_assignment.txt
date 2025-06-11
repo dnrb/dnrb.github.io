@@ -1,0 +1,27 @@
+<filename> <student> <grammar>
+quy.txt	Sumaiya Aamir	https://en.wikipedia.org/wiki/Quechuan_languages#Grammar
+cak.txt	Yalun Chen	https://en.wikipedia.org/wiki/Kaqchikel_language#Morphology_and_syntax
+fin.txt	Jiao Fei	https://en.wikipedia.org/wiki/Finnish_grammar
+tur.txt	Yuwei Gu	https://en.wikipedia.org/wiki/Turkish_grammar
+cha.txt	Kunio Kure	https://en.wikipedia.org/wiki/Chamorro_language#Grammar
+gug.txt	Meng Lai	https://en.wikipedia.org/wiki/Guarani_language#Grammar
+yua.txt	Bo Li	https://en.wikipedia.org/wiki/Yucatec_Maya_language#Verb_paradigm
+zlm.txt	Hai Lin	https://en.wikipedia.org/wiki/Malay_grammar#Affixes
+eus.txt	Nicole Lok	https://en.wikipedia.org/wiki/Basque_grammar
+est.txt	Vania Lozano Valeriano	https://en.wikipedia.org/wiki/Estonian_grammar
+cym.txt	Michael O’Connell	https://en.wikipedia.org/wiki/Colloquial_Welsh_morphology
+hun.txt	Ysabel Perez	https://en.wikipedia.org/wiki/Hungarian_language#Grammar
+zul.txt	Yuan Qu	https://en.wikipedia.org/wiki/Zulu_grammar
+quy.txt	Diego Sanchez Cedeno	https://en.wikipedia.org/wiki/Quechuan_languages#Grammar
+cak.txt	Richard Seo	https://en.wikipedia.org/wiki/Kaqchikel_language#Morphology_and_syntax
+fin.txt	Fanglue Shu	https://en.wikipedia.org/wiki/Finnish_grammar
+tur.txt	Gwiyoung Song	https://en.wikipedia.org/wiki/Turkish_grammar
+cha.txt	Michelle Sun	https://en.wikipedia.org/wiki/Chamorro_language#Grammar
+gug.txt	Chang Wang	https://en.wikipedia.org/wiki/Guarani_language#Grammar
+yua.txt	Shengyi Wu	https://en.wikipedia.org/wiki/Yucatec_Maya_language#Verb_paradigm
+zlm.txt	Jing Xue	https://en.wikipedia.org/wiki/Malay_grammar#Affixes
+eus.txt	Xuhong Yao	https://en.wikipedia.org/wiki/Basque_grammar
+est.txt	Peishan Yin	https://en.wikipedia.org/wiki/Estonian_grammar
+cym.txt	Siyuan Yu	https://en.wikipedia.org/wiki/Colloquial_Welsh_morphology
+hun.txt	Jingruo Zhan	https://en.wikipedia.org/wiki/Hungarian_language#Grammar
+zul.txt	Xinpei Zhao	https://en.wikipedia.org/wiki/Zulu_grammar

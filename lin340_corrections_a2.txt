@@ -1,0 +1,16 @@
+[error 1: 181030] The code cell below the following textblock in Chapter III of Assignment 2:
+
+"Try to find out by trial and error what the error is and how to fix it! Use print statements and logical reasoning to detect where things go wrong. Your test words of choice should be hand/foot, Schnitzel- (don't forget the '-' at the end), Tip**The, and chocolate-banana-jalapeño'"
+
+should contain the following code (you can copy & paste it into that cell):
+
+
+def find_replacement(word):
+    replacement = []
+    word_segments = re.split('\W+', word)
+    other_segments = re.findall('\W+', word)
+    n_word_segments = len(word_segments)
+    for i in range(n_word_segments):
+        replacement.append(word_segments[i])
+        replacement.append(other_segments[i])
+    return replacement
